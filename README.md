@@ -28,6 +28,12 @@ Darksky API
 - Total_win.png
 
 ## Methodology and findings
+
+### Total Wins per Team During 2011 Season
 <img src="football_analysis/total_win.png" />
+
+### Total Scores per Team During 2011 Season
 <img src="football_analysis/total_score.png" />
+
+### Win vs Loss per Team During 2011 Season
 <img src="football_analysis/Total_win_vs_lose.png" />
