@@ -28,6 +28,6 @@ Darksky API
 - Total_win.png
 
 ## Methodology and findings
-<img src="total_win.png" />
-<img src="total_score.png" />
-<img src="Total_win_vs_lose.png" />
+<img src="football_analysis/total_win.png" />
+<img src="football_analysis/total_score.png" />
+<img src="football_analysis/Total_win_vs_lose.png" />
