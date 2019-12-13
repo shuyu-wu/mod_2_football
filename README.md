@@ -32,11 +32,11 @@ Darksky API
 
 ### Total Scores per Team During 2011 Season
 Man city and Man United have the highest scores during the 2011 season.
-<img src="football_analysis/total_score.png" />
+<img src="football_analysis/data_viz/total_score.png" />
 
 ### Total Wins per Team During 2011 Season
 Consistently with the total score graph, Man city and Man United have the hight number of wins
-<img src="football_analysis/total_win.png" />
+<img src="football_analysis/data_viz/total_win.png" />
 
 ### Win vs Loss per Team During 2011 Season
-<img src="football_analysis/Total_win_vs_lose.png" />
+<img src="football_analysis/data_viz/Total_win_vs_lose.png" />
